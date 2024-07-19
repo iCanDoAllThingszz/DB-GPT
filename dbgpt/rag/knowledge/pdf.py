@@ -9,7 +9,6 @@ from dbgpt.rag.knowledge.base import (
     KnowledgeType,
 )
 import json
-from datetime import datetime, timedelta
 
 from unstructured.documents.elements import ElementType
 from unstructured.partition.pdf import partition_pdf
